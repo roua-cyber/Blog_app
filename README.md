@@ -16,10 +16,10 @@
 
 ### Backend :
 
-# Add blog: inserts a given blog in MongoDB database.
-# Fetch blogs: fetches all the blogs in the MongoDB database.
-# Fetch blog by id: fetches a blog by id from the MongoDB Database.
-# Filter: fetches a blog by title.
+###  Add blog: inserts a given blog in MongoDB database.
+###  Fetch blogs: fetches all the blogs in the MongoDB database.
+###  Fetch blog by id: fetches a blog by id from the MongoDB Database.
+###  Filter: fetches a blog by title.
 
 
 
