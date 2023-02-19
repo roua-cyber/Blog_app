@@ -1,4 +1,4 @@
-#Blog App
+#Blog App FARM stack
 
 ### Frontend :
 
@@ -14,7 +14,7 @@
 
 ![Test Image 1](https://github.com/roua-cyber/Blog_app/blob/main/img2.png)
 
-### Backend :
+### Backend : FASTAPI
 
 ###  Add blog: inserts a given blog in MongoDB database.
 ###  Fetch blogs: fetches all the blogs in the MongoDB database.
